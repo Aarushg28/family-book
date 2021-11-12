@@ -1,0 +1,9 @@
+  img{
+      border-radius: 50px;
+      border-style:dashed;
+      border-width: 3;
+      padding: 5px;
+  }
+  body{
+      background-color: antiquewhite;
+  }
